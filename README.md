@@ -1,16 +1,17 @@
-### Hi there 👋
+![Banner Image](./bitmoji.png)
+<h2> Hola 👋 </h2>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=justgruba.justgruba)
+![GitHub followers](https://img.shields.io/github/followers/justgruba.svg?style=social&label=Follow&maxAge=2592000)
 
-<!--
-**justgruba/justgruba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Justyna Gruba
+- <i>Currently: </i> Undergraduate student at Jagiellonian University, Computer Science
+- <i>Previously: </i> I graduated from AGH University of Science and Technology, Materials Engineering
 
-Here are some ideas to get you started:
+<h2> I am currently learning </h2>
+<br> - Ruby, Ruby on rails </br>
+ - Python, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgruba&layout=compact)
+<h2>📫 How to reach me:</h2>
+<a href="mailto:justgruba@gmail.com">![justgruba@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/justyna-gruba-75526a216/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
