@@ -8,5 +8,6 @@ I am Justyna Gruba
 <h2> I am currently learning </h2>
 <br> - Ruby, Ruby on rails </br>
  - Python, Flask
-<h2> Stats </h2>
+<h2> Stats: </h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgruba&layout=compact)
