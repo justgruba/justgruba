@@ -6,8 +6,8 @@ I am Justyna Gruba
 - <i>Previously: </i> I graduated from AGH University of Science and Technology, Materials Engineering
 
 <h2> I am currently learning </h2>
-<br> - Ruby, Ruby on rails </br>
- - Python, Flask
+<br> - React, React Native</br>
+ - Typescript
 <h2> Stats: </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgruba&layout=compact)
