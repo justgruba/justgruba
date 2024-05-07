@@ -1,9 +1,11 @@
 ![Banner Image](./bitmoji.png)
 <h2> Hola 👋 </h2>
 
-I am Justyna Gruba
-- <i>Currently: </i> Undergraduate student at Jagiellonian University, Computer Science
-- <i>Previously: </i> I graduated from AGH University of Science and Technology, Materials Engineering
+
+- My name is Justyna Gruba
+- <i>Currently: </i> I am developing as a mobile developer in React Native
+- <i>Previously: </i> I have a bachelor's degree
+ at the Jagiellonian University - Computer Science and I am a graduate of the AGH University of Science and Technology - Materials Engineering
 
 <h2> I am currently learning </h2>
 <br> - React, React Native</br>
